@@ -1,7 +1,7 @@
 # BlockStoreDemo
 Android Block Store Demo
 
-#How to test
+# How to test
 Same device uninstall/reinstall
 If the user enables Backup services (it can be checked at Settings > Google > Backup), Block Store data is persisted across the app uninstall/reinstall.
 
